@@ -14,11 +14,18 @@ function App() {
     <GlobalProvider>
             <Header /> 
         <div className="container"> 
-        <h1>learn react</h1>
             <Balance />
             <AccountSummary />
             <TransectionHistory />
             <AddTransection />
+            <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
         </div>
     </GlobalProvider>
   );
