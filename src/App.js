@@ -3,8 +3,8 @@ import './App.css';
 import {Header} from './components/Header'
 import {Balance} from './components/Balance'
 import {AccountSummary} from './components/AccountSummary'
-import {TransectionHistory} from './components/TransactionHistory'
-import {AddTransection} from './components/AddTransaction'
+import {TransectionHistory} from './components/TransectionHistory'
+import {AddTransection} from './components/AddTransection'
 import {GlobalProvider} from './context/GlobalState'
 
 
