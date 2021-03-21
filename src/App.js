@@ -14,6 +14,7 @@ function App() {
     <GlobalProvider>
             <Header /> 
         <div className="container"> 
+        <h1>learn react</h1>
             <Balance />
             <AccountSummary />
             <TransectionHistory />
